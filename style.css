@@ -38,3 +38,22 @@ header ul {
     gap: 2rem;
 }
 
+.section_1{
+    padding: 70px 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section_1 div *{
+    margin: 0.5rem;
+}
+
+.section_1 button{
+    border-style: none;
+    border-radius: 7px;
+    background-color: dodgerblue;
+    color: #E5E7EB;
+    padding: 10px 30px;
+    font-size: 18px;
+}
