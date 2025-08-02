@@ -52,8 +52,48 @@ header ul {
 .section_1 button{
     border-style: none;
     border-radius: 7px;
-    background-color: dodgerblue;
+    background-color: #3882f6;
     color: #E5E7EB;
     padding: 10px 30px;
     font-size: 18px;
+}
+
+.section_2{
+    padding: 70px 200px;
+}
+
+.section_2 h2{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.section_2 ul div{
+    height: 150px;
+    width: 150px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #3882f6;
+    border-width: 4px;
+    margin: 0.5rem;
+}
+
+.section_2 ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.section_2 ul li{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section_2 ul li p{
+    text-align: center;
+    width: 150px;
 }
