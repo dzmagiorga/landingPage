@@ -27,8 +27,14 @@ header, .section_1 {
 #first_li{
     font-size: 24px;
     color: #f9faf8;
+    margin-right: auto;
 }
 
-header {
-
+header ul {
+    display: flex;
+    padding: 1rem 200px;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 2rem;
 }
+
