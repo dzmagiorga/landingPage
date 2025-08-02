@@ -97,3 +97,23 @@ header ul {
     text-align: center;
     width: 150px;
 }
+
+.section_3 {
+    padding: 70px 350px;
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+}
+
+#quote{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+}
+
+#quote_author {
+    align-self: flex-end;
+    font-size: 20px;
+    font-weight: 900;
+}
