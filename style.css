@@ -117,3 +117,27 @@ header ul {
     font-size: 20px;
     font-weight: 900;
 }
+
+.section_4 {
+    padding: 70px 200px;
+}
+
+.section_4 > div{
+    padding: 50px 100px;
+    background-color: #3882f6;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section_4 *{
+    color: #F9FAF8;
+}
+
+.section_4 button {
+    padding: 0.5rem 2rem;
+    background-color: transparent;
+    border-style: solid;
+    border-radius: 12px;
+    border-color: #F9FAF8;
+}
