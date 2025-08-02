@@ -141,3 +141,13 @@ header ul {
     border-radius: 12px;
     border-color: #F9FAF8;
 }
+
+footer{
+    color: #E5E7EB;
+    background-color: #1F2937;
+    padding: 2rem 200px;
+}
+
+footer p{
+    text-align: center;
+}
